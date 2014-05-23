@@ -14,7 +14,6 @@ XpressMusic
 7.    歌曲播放、暂停、上一首、下一首，播放模式切换（随机、顺序、列表循环、单曲循环）。<br>
 8.    歌词同步显示，歌词自动下载。<br>
 
-如果您觉得本作品对您有所帮助，不妨[请作者喝一杯咖啡][3]，再小的力量也是一种支持。
 
 [1]: http://apk.hiapk.com/html/2013/06/1549163.html?module=256&info=j5bDXwyAUE4%3D        "安卓市场"
 [2]: http://www.nduoa.com/apk/detail/570118  "N多市场"
