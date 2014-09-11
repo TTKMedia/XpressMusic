@@ -1,25 +1,26 @@
 XpressMusic
 ===========
-本项目已不再维护
-================
-基于Android4.0的本地音乐播放器，界面模仿Android版酷狗V5.3,在[安卓市场][1]、[N多市场][2]搜索“随心而乐”可以获得示例程序<br>
-<b>精力有限，程序目前仅在小米1S（480x854 hdpi normal size）上调试开发完成，并未做其他机型的适配，不保证在其他机型上运行无误，仅供学习、技术交流使用</b><br>
-目前已实现的功能有:<br>
-1.    歌曲后台自动扫描。<br>
-2.    歌曲搜索，支持全键盘输入，T9键盘简拼、全拼搜索。<br>
-3.    歌曲排序，按歌曲名称、按歌手名称排序。<br>
-4.    歌曲分类，按文件夹、歌手、专辑分类。<br>
-5.    歌曲批量操作，全部播放、收藏到播放列表、删除。<br>
-6.    收藏列表的建立、修改、删除。<br>
-7.    歌曲播放、暂停、上一首、下一首，播放模式切换（随机、顺序、列表循环、单曲循环）。<br>
-8.    歌词同步显示，歌词自动下载。<br>
-
+####本项目已不再维护
+  
+基于Android4.0的本地音乐播放器，界面模仿Android版酷狗音乐V5.3，在[安卓市场][1]、[豌豆荚][2]、[应用宝][3]可以获得示例程序。
+  
+此为本人初学Android的练手之作，代码写的较为粗糙，不过里面各个功能点的业务逻辑实现可提供一定的参考价值，故在此分享给需要的人。
+  
+目前已实现的功能有:  
+1. 歌曲后台自动扫描。  
+2. 歌曲搜索，支持全键盘输入，T9键盘简拼、全拼搜索。  
+3. 歌曲排序，按歌曲名称、按歌手名称排序。  
+4. 歌曲分类，按文件夹、歌手、专辑分类。  
+5. 歌曲批量操作，全部播放、收藏到播放列表、删除。  
+6. 收藏列表的建立、修改、删除。  
+7. 歌曲播放、暂停、上一首、下一首，播放模式切换（随机、顺序、列表循环、单曲循环）。  
+8. 歌词同步显示，调用百度音乐盒接口自动下载歌词。  
 
 [1]: http://apk.hiapk.com/html/2013/06/1549163.html?module=256&info=j5bDXwyAUE4%3D        "安卓市场"
-[2]: http://www.nduoa.com/apk/detail/570118  "N多市场"
-[3]: https://me.alipay.com/avatarqing  "请作者喝一杯咖啡"
+[2]: http://www.wandoujia.com/apps/com.lq.activity  "豌豆荚"
+[3]: http://android.myapp.com/myapp/detail.htm?apkName=com.lq.xpressmusic  "应用宝"
 
-<pre><code>Copyright 2013 Liu Qing
+<pre><code>Copyright 2013 AvatarQing
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
